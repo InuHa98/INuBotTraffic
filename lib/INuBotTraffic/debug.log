@@ -1,0 +1,2 @@
+[0207/141302.364:INFO:CONSOLE(3)] "Uncaught ReferenceError: jQuery is not defined", source: https://code.jquery.com/jquery-migrate-3.0.1.min.js (3)
+[0207/141509.572:INFO:CONSOLE(3)] "Uncaught ReferenceError: jQuery is not defined", source: https://code.jquery.com/jquery-migrate-3.0.1.min.js (3)
